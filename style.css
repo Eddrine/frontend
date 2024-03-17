@@ -227,13 +227,8 @@ footer{
     padding: 20px 0;
     text-align: center;
 }
-@media screen and (max-width: 400px) {
-    body {
-      background-color: orange;
-    }
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    /* CSS */
+    
   }
-  /* @media screen and (max-width: 400px) { 
-    .left, .main, .right {
-      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
-    }
-  }*/
